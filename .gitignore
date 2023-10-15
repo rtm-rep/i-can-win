@@ -5,3 +5,5 @@
 # Ignore folders with specific names
 target/
 bin/
+
+# For making second commit according to the 2.2 task
